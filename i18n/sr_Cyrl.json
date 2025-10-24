@@ -633,7 +633,7 @@
   "confirm_password": "Поново унеси шифру",
   "contain": "Обухвати",
   "context": "Контекст",
-  "continue": "Настави",
+  "continue_button": "Настави",
   "control_bottom_app_bar_create_new_album": "Креирај нови албум",
   "control_bottom_app_bar_delete_from_immich": "Обриши из Immich-a",
   "control_bottom_app_bar_delete_from_local": "Обриши са уређаја",

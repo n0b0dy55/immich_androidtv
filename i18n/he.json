@@ -715,7 +715,7 @@
   "connected_to": "מחובר אל",
   "contain": "מכיל",
   "context": "הקשר",
-  "continue": "המשך",
+  "continue_button": "המשך",
   "control_bottom_app_bar_create_new_album": "צור אלבום חדש",
   "control_bottom_app_bar_delete_from_immich": "מחק מהשרת",
   "control_bottom_app_bar_delete_from_local": "מחק מהמכשיר",

@@ -716,7 +716,7 @@
   "connected_to": "Připojeno k",
   "contain": "Obsah",
   "context": "Kontext",
-  "continue": "Pokračovat",
+  "continue_button": "Pokračovat",
   "control_bottom_app_bar_create_new_album": "Vytvořit nové album",
   "control_bottom_app_bar_delete_from_immich": "Smazat ze serveru Immich",
   "control_bottom_app_bar_delete_from_local": "Smazat ze zařízení",

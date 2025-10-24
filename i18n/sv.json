@@ -716,7 +716,7 @@
   "connected_to": "Ansluten till",
   "contain": "Anpassa",
   "context": "Sammanhang",
-  "continue": "Fortsätt",
+  "continue_button": "Fortsätt",
   "control_bottom_app_bar_create_new_album": "Skapa nytt album",
   "control_bottom_app_bar_delete_from_immich": "Ta bort från Immich",
   "control_bottom_app_bar_delete_from_local": "Ta bort från enhet",

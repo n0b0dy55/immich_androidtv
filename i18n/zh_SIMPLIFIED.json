@@ -716,7 +716,7 @@
   "connected_to": "已连接到",
   "contain": "包含",
   "context": "以文搜图",
-  "continue": "继续",
+  "continue_button": "继续",
   "control_bottom_app_bar_create_new_album": "新建相册",
   "control_bottom_app_bar_delete_from_immich": "从 Immich 服务器中删除",
   "control_bottom_app_bar_delete_from_local": "从手机中删除",

@@ -716,7 +716,7 @@
   "connected_to": "Ühendatud seadmega",
   "contain": "Mahuta ära",
   "context": "Kontekst",
-  "continue": "Jätka",
+  "continue_button": "Jätka",
   "control_bottom_app_bar_create_new_album": "Lisa uus album",
   "control_bottom_app_bar_delete_from_immich": "Kustuta Immich'ist",
   "control_bottom_app_bar_delete_from_local": "Kustuta seadmest",

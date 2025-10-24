@@ -657,7 +657,7 @@
   "connected_to": "Đã kết nối tới",
   "contain": "Chứa",
   "context": "Ngữ cảnh",
-  "continue": "Tiếp tục",
+  "continue_button": "Tiếp tục",
   "control_bottom_app_bar_create_new_album": "Tạo album mới",
   "control_bottom_app_bar_delete_from_immich": "Xóa khỏi Immich",
   "control_bottom_app_bar_delete_from_local": "Xóa khỏi thiết bị",

@@ -687,7 +687,7 @@
   "connected_to": "से जुड़ा",
   "contain": "समाहित",
   "context": "संदर्भ",
-  "continue": "जारी",
+  "continue_button": "जारी",
   "control_bottom_app_bar_create_new_album": "नया एल्बम बनाएँ",
   "control_bottom_app_bar_delete_from_immich": "Immich से हटाएं",
   "control_bottom_app_bar_delete_from_local": "डिवाइस से हटाएं",

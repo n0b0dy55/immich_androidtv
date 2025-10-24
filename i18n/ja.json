@@ -715,7 +715,7 @@
   "connected_to": "接続:",
   "contain": "収める",
   "context": "状況",
-  "continue": "続ける",
+  "continue_button": "続ける",
   "control_bottom_app_bar_create_new_album": "アルバムを作成",
   "control_bottom_app_bar_delete_from_immich": "サーバーから削除",
   "control_bottom_app_bar_delete_from_local": "デバイス上から削除",

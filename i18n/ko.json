@@ -715,7 +715,7 @@
   "connected_to": "연결됨:",
   "contain": "맞춤",
   "context": "문맥",
-  "continue": "계속",
+  "continue_button": "계속",
   "control_bottom_app_bar_create_new_album": "앨범 생성",
   "control_bottom_app_bar_delete_from_immich": "Immich에서 삭제",
   "control_bottom_app_bar_delete_from_local": "기기에서 삭제",

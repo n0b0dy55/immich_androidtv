@@ -659,7 +659,7 @@
   "connected_to": "เชื่อมต่อไปยัง",
   "contain": "มีอยู่",
   "context": "บริบท",
-  "continue": "ต่อไป",
+  "continue_button": "ต่อไป",
   "control_bottom_app_bar_create_new_album": "สร้างอัลบั้มใหม่",
   "control_bottom_app_bar_delete_from_immich": "ลบจาก Immich",
   "control_bottom_app_bar_delete_from_local": "ลบจากเรื่อง",

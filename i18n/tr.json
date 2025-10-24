@@ -716,7 +716,7 @@
   "connected_to": "Bağlı",
   "contain": "Sığdır",
   "context": "Bağlam",
-  "continue": "Devam et",
+  "continue_button": "Devam et",
   "control_bottom_app_bar_create_new_album": "Yeni albüm",
   "control_bottom_app_bar_delete_from_immich": "Immich'ten sil",
   "control_bottom_app_bar_delete_from_local": "Cihazdan sil",

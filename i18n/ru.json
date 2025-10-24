@@ -716,7 +716,7 @@
   "connected_to": "Подключено к",
   "contain": "Вместить",
   "context": "Контекст",
-  "continue": "Продолжить",
+  "continue_button": "Продолжить",
   "control_bottom_app_bar_create_new_album": "Создать альбом",
   "control_bottom_app_bar_delete_from_immich": "Удалить из Immich",
   "control_bottom_app_bar_delete_from_local": "Удалить с устройства",

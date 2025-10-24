@@ -716,7 +716,7 @@
   "connected_to": "Connecté à",
   "contain": "Contenu",
   "context": "Contexte",
-  "continue": "Continuer",
+  "continue_button": "Continuer",
   "control_bottom_app_bar_create_new_album": "Créer un nouvel album",
   "control_bottom_app_bar_delete_from_immich": "Supprimer de Immich",
   "control_bottom_app_bar_delete_from_local": "Supprimer de l'appareil",

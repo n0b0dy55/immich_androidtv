@@ -272,7 +272,7 @@
   "collapse_all": "Згарнуць усё",
   "color": "Колер",
   "color_theme": "Колеравая тэма",
-  "continue": "Працягнуць",
+  "continue_button": "Працягнуць",
   "control_bottom_app_bar_create_new_album": "Стварыць новы альбом",
   "control_bottom_app_bar_delete_from_immich": "Выдаліць з Immich",
   "control_bottom_app_bar_delete_from_local": "Выдаліць з прылады",

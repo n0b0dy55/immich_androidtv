@@ -715,7 +715,7 @@
   "connected_to": "Свързан към",
   "contain": "В рамките на",
   "context": "Контекст",
-  "continue": "Продължи",
+  "continue_button": "Продължи",
   "control_bottom_app_bar_create_new_album": "Създай нов албум",
   "control_bottom_app_bar_delete_from_immich": "Премахни от Immich съръра",
   "control_bottom_app_bar_delete_from_local": "Премахни от устройството",

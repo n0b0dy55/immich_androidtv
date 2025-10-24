@@ -710,7 +710,7 @@
   "connected_to": "Prisijungta prie",
   "contain": "Tilpti",
   "context": "Kontekstas",
-  "continue": "Tęsti",
+  "continue_button": "Tęsti",
   "control_bottom_app_bar_create_new_album": "Sukurti naują albumą",
   "control_bottom_app_bar_delete_from_immich": "Ištrinti iš Immich",
   "control_bottom_app_bar_delete_from_local": "Ištrinti iš įrenginio",
